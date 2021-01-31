@@ -7,7 +7,6 @@ Implementation of Simple Online and Realtime Tracking using Python. It is design
 
 ```
 pip install -r requirements.txt
-
 ```
 
 ```
@@ -15,3 +14,8 @@ from sort.sort import *
 tracker = Sort()
 tracker.update()
 ```
+### Sample output with Yolov3
+<img src="https://github.com/arunm8489/Sort-Object-Tracking/blob/main/images/track1.png">
+<br>
+<br>
+<img src = "https://github.com/arunm8489/Sort-Object-Tracking/blob/main/images/track2.png">
